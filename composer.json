@@ -1,0 +1,21 @@
+{
+    "name": "kestrelbright/php_utils",
+    "description": "some tool function",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Kestrelbright\\PhpUtils\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "kestrelbright"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {
+        "ext-openssl": "*",
+        "php": ">=8.0"
+    }
+}
