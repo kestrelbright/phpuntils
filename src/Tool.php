@@ -1,30 +1,4 @@
 <?php
-/*
-======================================================================================
- *  Package Name    :   utils
- *  Source Name     :   Tool
- *  Build Version   :   
- *  Abstract        :   
- *  ---------------------------------------------------------------------------------------
- *
- *  Copyright (C) 2023 HYUN. All rights reserved.
- *
- *  This computer program source code file is protected by copyright law and international
- *  treaties. Unauthorized distribution of source code files, programs, or portion of the
- *  package, may result in severe civil and criminal penalties, and will be prosecuted to
- *  the maximum extent under the law.
- *
- *  ---------------------------------------------------------------------------------------
- *  Revision History:
- *	Date            :   18:22 2023/8/31
- *	Abstract        :   Created by kestrel
- *
- *                      18:22 2023/8/31
- *                      Initial version
- * Class Tool
- * @package Kestrelbright\PhpUtils
-======================================================================================== */
-
 namespace Kestrelbright\PhpUtils;
 
 class Tool
